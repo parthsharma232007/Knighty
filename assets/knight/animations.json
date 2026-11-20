@@ -1,0 +1,52 @@
+{
+  "idle": {
+    "strip": "idle.png",
+    "frames": 8,
+    "frame_size": [
+      80,
+      96
+    ],
+    "fps": 8,
+    "loop": "pingpong"
+  },
+  "run": {
+    "strip": "run.png",
+    "frames": 8,
+    "frame_size": [
+      95,
+      97
+    ],
+    "fps": 12,
+    "loop": "loop"
+  },
+  "run2": {
+    "strip": "run2.png",
+    "frames": 8,
+    "frame_size": [
+      89,
+      92
+    ],
+    "fps": 12,
+    "loop": "loop"
+  },
+  "sit": {
+    "strip": "sit.png",
+    "frames": 8,
+    "frame_size": [
+      74,
+      92
+    ],
+    "fps": 8,
+    "loop": "once"
+  },
+  "jump": {
+    "strip": "jump.png",
+    "frames": 8,
+    "frame_size": [
+      76,
+      123
+    ],
+    "fps": 12,
+    "loop": "once"
+  }
+}
